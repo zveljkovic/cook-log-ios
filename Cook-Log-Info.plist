@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BUNDLE_ID</key>
+	<string>com.zveen.cook-log</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>CFBundleURLName</key>
+			<string>FB</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb376956274926012</string>
+				<string>com.googleusercontent.apps.807148076557-0htfjd548jg65ds0b15hakmigo6o89ep</string>
+			</array>
+		</dict>
+	</array>
+	<key>CLIENT_ID</key>
+	<string>807148076557-0htfjd548jg65ds0b15hakmigo6o89ep.apps.googleusercontent.com</string>
+	<key>FacebookAdvertiserIDCollectionEnabled</key>
+	<string>NO</string>
+	<key>FacebookAppID</key>
+	<string>376956274926012</string>
+	<key>FacebookAutoLogAppEventsEnabled</key>
+	<string>NO</string>
+	<key>FacebookClientToken</key>
+	<string>438816de41505326f92d97a398213759</string>
+	<key>FacebookDisplayName</key>
+	<string>Cook Log</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<string>NO</string>
+	<key>GIDClientID</key>
+	<string>807148076557-0htfjd548jg65ds0b15hakmigo6o89ep.apps.googleusercontent.com</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+	</array>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.807148076557-0htfjd548jg65ds0b15hakmigo6o89ep</string>
+</dict>
+</plist>
